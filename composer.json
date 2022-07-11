@@ -1,13 +1,15 @@
 {
-    "name": "amanfermiranda/restaurant",
-    "description": "sistema para un restaurante",
+    "name": "joshuamisadaimm/restaurant",
     "autoload": {
         "psr-4": {
-            "App\\": "app/"
-        },
-        "files": [
-            "app/helpers.php"
-        ]
+            "Joshuamisadaimm\\Restaurant\\": "src/"
+        }
     },
+    "authors": [
+        {
+            "name": "amanfermiranda",
+            "email": "amanfernando_83@hotmail.com"
+        }
+    ],
     "require": {}
 }
